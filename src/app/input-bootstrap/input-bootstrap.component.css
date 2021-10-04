@@ -1,0 +1,15 @@
+input {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    font-size: 14px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    font-size: 16;
+    margin-right: 10px;
+}
